@@ -1,0 +1,14 @@
+# Compiled binary
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Dependency directories
+vendor/
+node_modules/
+
+# OS-specific files
+Thumbs.db
+.DS_Store
