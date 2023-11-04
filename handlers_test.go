@@ -39,4 +39,3 @@ func TestSummaryHandler(t *testing.T) {
 	assert.Contains(t, response, "AgeGroup")
 
 }
-
